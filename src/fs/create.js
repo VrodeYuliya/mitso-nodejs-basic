@@ -3,7 +3,7 @@ import { join } from 'path';
 import { writeFile } from 'fs/promises';
 const create = async () => {
     const filePath = join( 'files', 'fresh.txt');
-    const content = 'I am fresh and young';
+    const content = 'I am fresh and younggggg';
 
     try {
 // Флаг 'w' — перезаписывает файл, если он существует
